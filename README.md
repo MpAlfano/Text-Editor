@@ -14,10 +14,11 @@ Back-end application to store text to a database. With the help of service worke
 - [LICENSE](#license)
 
 ## DEMO
+![Screenshot (602)](https://user-images.githubusercontent.com/96558916/159186598-b64d03a3-8c95-4c19-87c6-9f67e9b760bb.png)
 
 ## Deployment
 
-[Check out the video here](https://text-edit-or.herokuapp.com/)
+[Check out the website here](https://text-edit-or.herokuapp.com/)
 
 ## Usage
 
